@@ -39,7 +39,7 @@ The study is particularly relevant given that **40% of Chinese cities are experi
 🧠 **[`Final_Project_FNN.ipynb`](./Final_Project_FNN.ipynb)**  
 - Implementation of a **Feedforward Neural Network (FNN)** model to predict population mobility using structured data.  
 
-⏳ **[`Wan_Stage5_Timesheries.html`](./Wan_Stage5_Timesheries.html)**  
+⏳ **[`FinalProject_Timesheries.ipynb`](./FinalProject_Timesheries.ipynb)**  
 - Implementation of a **Time Series model**, including **LSTM**, to analyze temporal trends in migration patterns.  
 
 ---
